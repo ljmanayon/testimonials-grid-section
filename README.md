@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: []()
-- Live Site URL: []()
+- Solution URL: [ljmanayon/testimonials-grid-section](https://github.com/ljmanayon/testimonials-grid-section)
+- Live Site URL: [ljmanayon.github.io/testimonials-grid-section](https://ljmanayon.github.io/testimonials-grid-section/)
 
 ## My process
 
@@ -65,5 +65,5 @@ I will continue to learn about HTML and CSS then move up to JS once I'm really c
 
 ## Author
 
-- Website - [Lucsan S. Manayon]()
+- Website - [Lucsan S. Manayon](https://github.com/ljmanayon/testimonials-grid-section)
 - Frontend Mentor - [@ljmanayon](https://www.frontendmentor.io/profile/ljmanayon)
